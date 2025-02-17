@@ -32,6 +32,7 @@ addon | version | maintainers | summary
 [sale_report_commitment_date](sale_report_commitment_date/) | 16.0.1.0.0 | [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | Display the commitment date on Sales Order analysis reports
 [sale_report_country_state](sale_report_country_state/) | 16.0.1.0.0 |  | Sale Report Filter by State
 [sale_report_delivered](sale_report_delivered/) | 16.0.2.2.0 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Sale Report Delivered
+[sale_report_delivered_attribute_values](sale_report_delivered_attribute_values/) | 16.0.1.0.1 | [![Shide](https://github.com/Shide.png?size=30px)](https://github.com/Shide) [![rafaelbn](https://github.com/rafaelbn.png?size=30px)](https://github.com/rafaelbn) | Allow to view Attribute values of Lines on Sale Report Delivered
 [sale_report_delivered_deposit](sale_report_delivered_deposit/) | 16.0.2.0.0 | [![Shide](https://github.com/Shide.png?size=30px)](https://github.com/Shide) [![rafaelbn](https://github.com/rafaelbn.png?size=30px)](https://github.com/rafaelbn) | Allow to view Customer Deposits on Sale Report Delivered
 [sale_report_delivered_subtotal](sale_report_delivered_subtotal/) | 16.0.1.0.1 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Sale Report Delivered subtotal
 [sale_report_delivered_volume](sale_report_delivered_volume/) | 16.0.1.0.0 |  | Sale Report Delivered Volume

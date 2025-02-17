@@ -19,6 +19,7 @@ setuptools.setup(
         'odoo-addon-sale_report_commitment_date>=16.0dev,<16.1dev',
         'odoo-addon-sale_report_country_state>=16.0dev,<16.1dev',
         'odoo-addon-sale_report_delivered>=16.0dev,<16.1dev',
+        'odoo-addon-sale_report_delivered_attribute_values>=16.0dev,<16.1dev',
         'odoo-addon-sale_report_delivered_deposit>=16.0dev,<16.1dev',
         'odoo-addon-sale_report_delivered_subtotal>=16.0dev,<16.1dev',
         'odoo-addon-sale_report_delivered_volume>=16.0dev,<16.1dev',
