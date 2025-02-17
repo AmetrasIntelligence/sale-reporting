@@ -23,7 +23,8 @@ msgid ""
 "All Product Attribute Values used directly or indirecly for this line.\n"
 "Contains information about increased price, html color, etc."
 msgstr ""
-"Todos los Valores de Atributos de Producto utilizados directamente o indirectamente en esta línea.\n"
+"Todos los Valores de Atributos de Producto utilizados directamente o "
+"indirectamente en esta línea.\n"
 "Contiene información sobre el incremento de precio, color html, etc."
 
 #. module: sale_report_delivered_attribute_values
